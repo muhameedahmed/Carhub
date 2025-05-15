@@ -2,7 +2,7 @@
   "name": "carhub",
   "private": true,
   "version": "0.1.0",
-  "type": "module",
+   "type": "module",
    "homepage": "https://muhameedahmed.github.io/Carhub",
   "scripts": {
     "dev": "vite",
